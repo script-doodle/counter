@@ -1,5 +1,5 @@
 # Counter
-## To Experience Live Demo [Click Here](https://md-mussanna-bin-sharif.github.io/counter/)
+## [Live Demo](https://mahin-codes.github.io/counter/)
 ### Basic Counter Website
 - Crafted Using HTML, CSS & JavaScript.
 - Increase, Decrease & Reset Available.
